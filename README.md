@@ -74,3 +74,6 @@ browserSync.init({
 });
 ```
 * Start the MAMP services and run "gulp serve" as before.
+
+
+-- by Antonio
