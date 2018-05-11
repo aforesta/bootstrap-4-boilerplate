@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wapbamboogie/bootstrap-4-boilerplate"
+    "url": "https://github.com/aforesta/bootstrap-4-boilerplate"
   },
   "devDependencies": {
     "browser-sync": "^2.23.7",
